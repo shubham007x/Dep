@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password456"
+    },
+    {
+      "name": "Shubham Agdari",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "shubham ",
+      "email": "abb@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "data": {
+        "salary": "dw",
+        "refund": "ewe",
+        "gifts": "ewew",
+        "others": "wew",
+        "amount": "",
+        "date": "2023-10-12"
+      },
+      "id": 5
+    }
+  ],
+  "data": [
+    {
+      "name": "shubham ",
+      "email": "abb@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
